@@ -1,0 +1,32 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+       {
+          "Action": "Load",
+          "Target": "Maps/Shed2",
+          "FromFile": "assets/Shed2v2.tmx"
+       },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Shed",
+         "MapProperties": {
+            "CanCaskHere": "T"
+         }
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/FarmCave",
+         "MapProperties": {
+            "CanCaskHere": "T"
+         }
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Tunnel",
+         "MapProperties": {
+            "CanCaskHere": "T"
+         }
+      },
+    ]
+}
+

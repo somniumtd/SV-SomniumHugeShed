@@ -1,0 +1,12 @@
+{
+   "Name": "Huge Shed for Stardew Valley", 
+   "Author": "Somnium",
+   "Version": "1.0.1",
+   "Description": "Adds larger room and cellar to upgraded shed, and allows casks in tunnel, shed, and cave. Now supports Stardew Valley 1.6",
+   "UniqueID": "SomniumTD.HugeShed",
+   "MinimumApiVersion": "4.0.0", 
+   "UpdateKeys": [], 
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", 
+   }
+}
